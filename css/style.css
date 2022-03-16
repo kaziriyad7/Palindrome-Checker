@@ -70,7 +70,7 @@ header p{
   margin-top: 20px;
   border-radius: 5px;
   pointer-events: none;
-  background: #3007e9;
+  background: #020000;
   transition: opacity 0.15s ease;
 }
 .inputs button.active{
